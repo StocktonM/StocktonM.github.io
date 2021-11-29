@@ -10,7 +10,7 @@
     color: lightgray;
 }
 
-#navbar #a {
+#navbar a {
     background-color: silver;
     color: black;
     margin: 10px;
@@ -20,7 +20,7 @@
     float:left;
 }
 
-#button:hover{
+a:hover{
     background-color:darkgray;
     color:lightgray;
 }
