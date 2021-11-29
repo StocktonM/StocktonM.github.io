@@ -18,17 +18,11 @@ a {
     padding: 5px;
     width: 100px;
     text-align: center;
-    }
+    text-decoration: none;
+    list-style-type: none;
+}
 
 a:hover{
     background-color:darkgray;
     color:lightgray;
-}
-
-a{
-    text-decoration: none;
-    list-style-type: none;
-    margin: 4px;
-    padding:4px; 
-    border-radius: 3px,4px;
 }
