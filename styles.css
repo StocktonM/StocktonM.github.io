@@ -5,14 +5,15 @@
    
 }
 
-#navbar {
+/*#navbar {
     background-color: #6F8FAF;
     color:lightgray;
-}
+}*/
 
 #button{
     background-color:silver;
     color:black;
+    margin:0px,2px,0px,2px;
 }
 
 #button:hover{
