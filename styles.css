@@ -10,9 +10,15 @@
     color:lightgray;
 }
 
+li.hover{
+    background-color:darkgray;
+    color:lightgray;
+}
+
 a{
     text-decoration: none;
     list-style-type: none;
     margin: 4px;
     padding:4px; 
+    border-radius: 3px,4px;
 }
