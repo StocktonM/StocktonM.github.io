@@ -11,7 +11,7 @@
     background-color:darkslategray;
 }
 
-#navbar a {
+a {
     float: left;
     color: lightgray;
     margin: 10px;
