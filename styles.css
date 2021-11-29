@@ -15,6 +15,10 @@ li.hover{
     color:lightgray;
 }
 
+#indexcol{
+    float: left;
+}
+
 a{
     text-decoration: none;
     list-style-type: none;
