@@ -10,7 +10,12 @@
     color:lightgray;
 }
 
-li.hover{
+#button{
+    background-color:silver;
+    color:black;
+}
+
+#button:hover{
     background-color:darkgray;
     color:lightgray;
 }
